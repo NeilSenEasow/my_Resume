@@ -1,0 +1,19 @@
+html {
+    background-color: #93c0a4;
+}
+header {
+    background-color: rgb(123, 207, 156);
+    text-align: center;
+}
+aboutme {
+    text-align: center;
+}
+#personal_details {
+    text-align: right;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
